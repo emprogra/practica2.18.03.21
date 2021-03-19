@@ -12,5 +12,7 @@ namespace practica2.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<practica2.Models.Aerolinea> Aerolineas { get; set; }
     }
 }

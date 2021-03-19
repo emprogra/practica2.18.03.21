@@ -8,11 +8,11 @@ namespace practica2.Models
 {
     public enum Paises
     {
-        Bolivia=1,
-        Brasil=2,
-        Chile=3,
-        Miami=4,
-        San_Francisco=5,
+        Bolivia,
+        Brasil,
+        Chile,
+        Miami,
+        San_Francisco,
 
     }
     public class Aerolinea
